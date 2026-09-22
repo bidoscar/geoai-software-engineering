@@ -1,0 +1,4 @@
+print("GeoAI Software Engineering")
+print("Module 1 - Foundations")
+print("Environment successfully configured")
+print("My first GeoAI engineering repository is running")
